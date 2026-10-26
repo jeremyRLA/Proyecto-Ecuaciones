@@ -1,0 +1,9 @@
+﻿numpy
+scipy
+torch
+torchdiffeq
+wfdb
+pandas
+polars
+scikit-learn
+matplotlib

@@ -1,0 +1,15 @@
+﻿# Entornos virtuales
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Datos y modelos pesados
+data/
+*.pt
+*.pth
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
